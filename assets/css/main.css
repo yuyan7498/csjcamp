@@ -4685,3 +4685,9 @@ input, select, textarea {
 .redText{
 	color: #f51414;
 }
+
+.avatar-image {
+    width: 100px;
+    height: 100px; 
+    object-fit: cover;
+}
